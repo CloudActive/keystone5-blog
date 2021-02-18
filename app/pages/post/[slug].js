@@ -1,10 +1,11 @@
+import React from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
 
 import { gql, useMutation, useQuery } from '@apollo/client';
 import { useState } from 'react';
 
-import { jsx } from '@emotion/core';
+import { jsx } from '@emotion/react';
 import { format, parseISO } from 'date-fns';
 
 import Layout from '../../templates/layout';

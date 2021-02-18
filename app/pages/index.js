@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 import { gql, useQuery } from '@apollo/client';
 
-import { jsx } from '@emotion/core';
+import { jsx } from '@emotion/react';
 import { format, parseISO } from 'date-fns';
 
 import Layout from '../templates/layout';

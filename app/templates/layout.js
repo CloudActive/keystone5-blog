@@ -1,5 +1,6 @@
+import React from 'react';
 import Head from 'next/head';
-import { jsx, Global } from '@emotion/core';
+import { jsx, Global } from '@emotion/react';
 
 /** @jsx jsx */
 

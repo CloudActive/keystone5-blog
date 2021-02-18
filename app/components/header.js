@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { jsx } from '@emotion/core';
+import { jsx } from '@emotion/react';
 
 /** @jsx jsx */
 
